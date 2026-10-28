@@ -1,0 +1,9 @@
+location,appliance,count,watts,hours_per_day,idle_hours_per_day
+Classroom 101,Ceiling fan,6,75,8,2
+Classroom 101,LED tube light,8,20,8,2
+Classroom 101,Projector,1,250,4,1
+Classroom 101,Air conditioner,1,1500,6,2
+Computer Lab 2,Desktop PC,30,180,9,3
+Computer Lab 2,Split AC 2-Ton,2,2200,8,2
+Library Reading Hall,Tube light,20,36,12,3
+Admin Office,Printer,3,450,8,4
